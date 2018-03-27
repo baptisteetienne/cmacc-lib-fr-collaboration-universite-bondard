@@ -1,0 +1,109 @@
+CONTRAT DE COLLABORATION
+
+
+// Fichiers appeles 
+
+$ presentation = [./presentation.cmacc]
+
+
+
+IL EST CONVENU CE QUI SUIT :
+
+
+ARTICLE 1 : OBJET DU CONTRAT
+
+$ objet_contrat = [./objet_contrat.cmacc]
+
+
+
+ARTICLE 2 : RESPONSABLES SCIENTIFIQUES
+
+$ responsable_scientifique = [./responsable_scientifique.cmacc]
+
+
+
+ARTICLE 3 : REUNIONS - RAPPORTS
+
+$ reunion_rapport = [./reunion_rapport.cmacc]
+
+
+ARTICLE 4 : DUREE
+
+$ duree = [./duree.cmacc]
+
+
+ARTICLE 5 : MODALITES DE LA COLLABORATION
+
+$ modalites_collaboration = [./modalite_collaboration.cmacc]
+
+ARTICLE 6 : SECRET - PUBLICATIONS
+
+$ secret_publication : [./secret_publication.cmacc]
+
+
+ARTICLE 7 : PROPRIETE DES RESULTATS 
+
+$ propriete_resultat = [./propriete_resultat.cmacc]
+
+ARTICLE 8 : EXPLOITATION DES RESULTATS COMMUNS
+
+$ exploitation_resultat_commun = [./exploitation_resultat_commun.cmacc]
+
+ARTICLE 9 : RESILIATION
+
+$ resilitation = [./resilitation.cmacc]
+
+
+ARTICLE 10 : NOTIFICATIONS
+
+$ notification = [./notification.cmacc]
+
+
+ARTICLE 11 : LITIGES - CONTESTATIONS
+
+$ litige = [./litige.cmacc]
+
+
+
+$ final = [./final.cmacc]
+
+
+
+
+
+
+
+ANNEXE 1 : ANNEXE SCIENTIFIQUE ET TECHNIQUE
+
+
+$ annexe_scientifique = [./annexe_scientifique.cmacc]
+
+
+
+
+ANNEXE 2 : BREVETS COMMUNS
+
+
+A  - PRINCIPES GENERAUX
+
+ $ annexe_deux_generalites = [./annexe_deux_generalites.cmacc]
+
+
+B -FRAIS
+
+ $ annexe_deux_frais = [./annexe_deux_frais.cmacc]
+
+
+C  PROCEDURES DE DEPOT, DE MAINTIEN ET D'EXTENSION DES BREVETS COMMUNS
+
+ $ annexe_deux_procedure_brevet = [./annexe_deux_procedure_brevet.cmacc]
+
+
+D  CESSION
+
+$ annexe_deux_cession = [./annexe_deux_cession.cmacc]
+
+E  ACTIONS EN JUSTICE
+
+$ annexe_deux_justice = [./annexe_deux_justice.cmacc]
+

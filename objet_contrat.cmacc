@@ -1,0 +1,20 @@
+
+
+
+// Description 
+
+$ sujet_etude = "sujet_etude"
+
+$ nom_etude = "nom_etude"
+
+$ nom_universite = "nom_universite"
+
+
+
+Les PARTIES décident d'effectuer en commun une étude {{sujet_etude}}, intitulée : 
+
+{{nom_etude}}
+
+Le sujet précis de l'Etude ainsi que son programme détaillé sont donnés dans l'annexe scientifique et technique jointe (Annexe 1).
+
+Le GROUPE {{nom_universite}} mettra tout en œuvre pour assurer le bon déroulement de l’Etude, conformément à l'obligation de moyens, et non de résultats, qui leur incombe.

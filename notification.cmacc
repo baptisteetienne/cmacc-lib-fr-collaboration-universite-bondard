@@ -1,0 +1,23 @@
+
+// Parametres 
+
+$ nom_societeun = "nom_societeun"
+
+$ nom_societedeux = "nom_societedeux"
+
+$ nom_universite = "nom_universite"
+
+$ adresse_societeun = "adresse_societeun"
+
+$ adresse_societedeux = "adresse_societedeux"
+
+
+Toute notification requise au titre du présent contrat, en particulier en matière de propriété industrielle et d’exploitation des Résultats Communs, {{nom_societeun}} aura pour interlocuteur unique {{nom_societedeux}}, à charge de ce dernier d’en informer {{nom_universite}}.
+
+En conséquence, toute notification requise au titre du présent contrat sera réalisée par courrier recommandé avec accusé de réception, à la PARTIE concernée à l’adresse suivante : 
+Pour le {{nom_universite}}:
+{{nom_societedeux}} ou {{nom_universite}}
+{{adresse_societedeux}} ou de l’Université à compléter
+
+Pour {{nom_societeun}}
+{{adresse_societeun}}

@@ -1,0 +1,76 @@
+
+// Parametres 
+
+$ lieu_contrat = "lieu_contrat"
+
+$ date = "date"
+
+
+$ nom_societeun = "nom_societeun"
+
+$ nom_presidentun = "nom_presidentun"
+
+
+$ nom_societedeux = "nom_societedeux"
+
+$ nom_presidentdeux = "nom_presidentdeux"
+
+
+$ nom_universite = "nom_universite"
+
+$ nom_presidenttrois = "nom_presidenttrois"
+
+
+$ nom_responsable = "nom_responsable"
+
+$ nom_directeur_laboratoire = "nom_directeur_laboratoire"
+
+
+
+Fait à {{lieu_contrat}}, le {{date}} en trois exemplaires originaux
+
+{{nom_societeun}}
+
+nom du Président/Gérant 
+{{nom_presidentun}},
+
+date : {{date}}
+	{{nom_societedeux}}
+
+nom du Président/Gérant 
+{{nom_presidentdeux}}
+
+date : {{date}}
+
+
+
+
+
+
+
+{{nom_universite}}
+
+nom du Président, 
+{{nom_presidenttrois}}
+
+date : {{date}}
+
+
+
+ Responsable Scientifique
+{{nom_responsable}}
+
+date : {{date}}
+	Le LABORATOIRE
+
+Responsable Scientifique
+{{nom_responsable}}
+
+date : {{date}}
+
+
+
+Directeur du Laboratoire
+{{nom_directeur_laboratoire}}
+
+date : {{date}}

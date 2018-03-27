@@ -1,0 +1,103 @@
+
+//Parametres 
+
+//Description partie un
+
+$ forme_societeun = "forme_societeun"
+
+$ nom_societeun = "nom_societeun"
+
+$ montant_capitalun = "montant_capitalun"
+
+$ nom_villeun = "nom_villeun"
+
+$ numero_societeun = "numero_societeun"
+
+$ adresse_siege_socialeun = "adresse_siege_socialeun"
+
+$ nom_presidentun = "nom_presidentun"
+
+$ domaine_societe = "domaine_societe"
+
+
+// Description partie deux
+
+$ forme_societedeux = "forme_societedeux"
+
+$ nom_societedeux = "nom_societedeux"
+
+$ montant_capitaldeux = "montant_capitaldeux"
+
+$ nom_villedeux = "nom_villedeux"
+
+$ numero_societedeux = "numero_societedeux"
+
+$ adresse_siege_socialedeux = "adresse_siege_socialedeux"
+
+$ nom_presidentdeux = "nom_presidentdeux"
+
+
+// Description partie trois
+
+$ nom_universite = "nom_universite"
+
+$ adresse_universite = "adresse_universite"
+
+$ nom_presidenttrois = "nom_presidenttrois"
+
+
+// Description partie quatre
+
+$ nom_laboratoire = "nom_laboratoire"
+
+$ nom_presidentquatre = "nom_presidentquatre"
+
+$ domaine_laboratoire = "domaine_laboratoire"
+
+
+ENTRE
+
+
+{{forme_societeun}} et {{nom_societeun}}, au capital de {{montant_capitalun}} euros, immatriculée au Registre du Commerce et des Sociétés de {{nom_villeun}} sous le {{numero_societeun}} ayant son siège social au {{adresse_siege_socialeun}}
+
+Représentée par son Président (ou gérant), {{nom_presidentun}}
+
+CI-APRES DESIGNEE PAR {{nom_societeun}}
+,
+
+D'UNE PART,
+
+ET
+
+
+{{forme_societedeux}} et {{nom_societedeux}}, au capital de {{montant_capitaldeux}} euros, immatriculée au Registre du Commerce et des Sociétés de {{nom_villedeux}} sous le {{numero_societedeux}}  ayant son siège social au {{adresse_siege_socialedeux}}.  
+
+Représentée par son Président (ou gérant), {{nom_presidentdeux}}
+
+CI-APRES DESIGNEE PAR  {{nom_societedeux}}
+et
+
+L’UNIVERSITE {{nom_universite}},
+dont le siège social est situé au {{adresse_universite}},
+
+Représentée par {{nom_presidenttrois}}, son Président, 
+
+CI-APRES DESIGNEE PAR {{nom_universite}}
+
+{{nom_societedeux}} ET {{nom_universite}} ENSEMBLE CI-APRES DESIGNEES PAR GROUPE {{nom_universite}}
+
+
+agissant en leur nom et pour la mise en œuvre des activités du Laboratoire {{nom_laboratoire}}, dirigé par {{nom_presidentquatre}}.
+
+D'AUTRE PART,
+
+ {{nom_societeun}} d’une part et le GROUPE {{nom_universite}} d’autre part sont désignés ensemble ci-après par les PARTIES.
+
+
+ATTENDU QUE :
+
+{{nom_societedeux}} et {{nom_universite}} ont signé le {{date_signature}}, une convention-cadre qui confère à {{nom_societedeux}} la mission de valoriser le potentiel scientifique et technologique des laboratoires, centres et services de {{nom_universite}}, et d’assurer la gestion des contrats afférents à cette mission.
+
+Le Laboratoire possède un savoir-faire reconnu dans le domaine de l’étude de {{domaine_laboratoire}}
+
+{{nom_societeun}} est spécialisée dans le domaine de {{domaine_societe}}.

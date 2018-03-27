@@ -1,0 +1,97 @@
+
+
+// Parametres 
+
+$ prix_etudezero = "prix_etudezero"
+
+$ prix_etudeun = "prix_etudeun"
+
+$ prix_etudedeux = "prix_etudedeux"
+
+
+$ nom_societeun = "nom_societeun"
+
+$ nom_universite = "nom_universite"
+
+$ nom_societedeux = "nom_societedeux"
+
+
+$ montant_ht = "montant_ht"
+
+$ montant_tva = "montant_tva"
+
+$ montant_ttc = "montant_ttc"
+
+
+$ nom_banque = "nom_banque"
+
+$ nom_agence = "nom_agence"
+
+$ adresse_agence = "adresse_agence"
+
+$ code_banque = "code_banque"
+
+$ code_guichet = "code_guichet"
+
+$ numero_compte = "numero_compte"
+
+$ cle_compte = "cle_compte"
+
+$ iban = "iban"
+
+$ swift = "swift"
+
+
+
+$ modalites = "modalites"
+
+
+
+$ adresse_societeun = "adresse_societeun"
+
+$ telephone_societeun = "telephone_societeun"
+
+$ fax_societeun = "fax_societeun"
+
+
+Le coût de la présente Etude s’élève à {{prix_etudezero}}  € HT réparti comme suit :
+
+{{prix_etudeun}} €HT pour {{nom_societeun}}
+
+{{prix_etudedeux}} €HT pour le {{nom_universite}}
+
+
+En contrepartie des engagements pris par le {{nom_universite}} dans le cadre de l'Etude, {{nom_societeun}}  s'engage à leur verser une contribution forfaitaire de :
+
+Montant hors taxe :				{{montant_ht}} € HT 
+TVA (19,6 %) :				{{montant_tva}} € 
+Montant toutes taxes comprises : 		{{montant_ttc}} € TTC 
+
+Les versements seront effectués au compte {{nom_societedeux}} :
+
+Indiquer les références bancaires :
+
+{{nom_banque}}
+{{nom_agence}}
+{{adresse_agence}}
+Code Banque : {{code_banque}} – Code Guichet : {{code_guichet}} - N° Compte : {{numero_compte}} – Clé : {{cle_compte}}
+IBAN: {{iban}} - SWIFT (BIC) : {{swift}}
+
+sur présentation de factures et selon les modalités suivantes : {{modalites}}, exemple :
+
+montant € HT à la signature du présent contrat (T0),
+montant € HT, à T0 + 4 mois (T1),
+montant € HT, à T1 + 4 mois (T2)
+montant € HT, à la fin du présent contrat
+
+
+Les factures seront adressées à {{nom_societeun}} à l'attention de nom du Président/Gérant à l'adresse suivante : 
+
+{{adresse_societeun}}
+Tél : {{telephone_societeun}}
+Fax : {{fax_societeun}}
+
+
+{{nom_societedeux}} peut décider d'affecter une partie de la contribution forfaitaire à la rémunération de personnel. Le choix de ce personnel se fera en accord avec {{nom_societeun}}.
+
+Cette contribution versée par {{nom_societeun}} est utilisée par le Laboratoire jusqu'à épuisement des fonds sans condition de délai pendant la durée du contrat. {{nom_societedeux}} adressera les justificatifs des dépenses à {{nom_societeun}} tous les indiquer la fréquence pendant la durée du contrat et de ses extensions et avenants éventuels.
